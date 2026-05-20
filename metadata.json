@@ -1,0 +1,8 @@
+{
+  "name": "__Snake2__",
+  "description": "一個現代風格的貪食蛇遊戲，支援鍵盤控制與流暢的動畫效果。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
